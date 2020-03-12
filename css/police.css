@@ -1,0 +1,17 @@
+#police{
+    height:         80px;
+    background-color:   rgb(245,245, 245);
+}
+#police_content{
+    width:          1000px;
+    margin-left:    auto;
+    margin-right:   auto;
+}
+#police_content p{
+    width:          80px;
+    margin-left:    auto;
+    margin-right:   auto;
+}
+#police_content img{
+    margin-bottom:  -2px;
+}

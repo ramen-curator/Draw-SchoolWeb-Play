@@ -1,0 +1,121 @@
+#main{
+    background-color:   rgb(245,245, 245);
+    height:             452px;
+}
+#main_white{
+    background-color:   white;
+    height:             4px;
+    width:              1000px;
+    margin-left:        auto;
+    margin-right:       auto;
+}
+#main_blue{
+    background-color:   rgb(208,227,239);
+    height:             4px;
+    width:              1000px;
+    margin-right:       auto;
+    margin-left:        auto;
+}
+
+#main_table{
+    display:            table;
+    width:              1000px;
+    height:             444px;
+    background:         white;
+    margin-right:       auto;
+    margin-left:        auto;
+
+}
+#main_table p,#main_table li{
+    font-size:          4px;
+}
+#main_table p{
+    line-height:        18px;
+    padding-bottom:     5px;
+}
+#main_table li{
+    line-height:        15px;
+    padding-top:        16px;
+}
+
+#main_table h2{
+    color:              rgb(17,120,186);
+    font-weight:        normal;
+    padding-bottom:      5px;
+    
+}
+
+#main_table h2 ul li{
+    display:            inline;
+    color:              rgb(17,120,186);
+    font-weight:        normal;
+    padding-bottom:      5px;
+    font-size:          19px;
+}
+
+#main_table_row{
+    display:            table-row;
+}
+#main_table_cell_No1 , 
+#main_table_cell_No2 , 
+#main_table_cell_No3{
+    display:            table-cell;
+    padding:            24px;
+}
+#main_table_cell_No1 {
+    width:              35%;
+}
+#main_table_cell_No3 {
+    width:              28%;
+}
+
+#main_table_cell_No2 img{
+    width:              313px;
+    margin-top:         16px;
+}
+#main_table_cell_No3 img{
+    width:              242px;
+    margin-top:         16px;
+    margin-bottom:      16px;
+}  
+#main_table_row h2{
+    border-bottom:      1px solid rgb(208,208, 208);
+}
+
+#date{
+    float:              left;
+    width:              60px;
+    height:             60px;
+    background-color: rgb(234,239,242);
+    margin:             16px 20px 16px 0px;
+}
+#date_1{
+    color:              rgb(17,120,186);
+    margin-left:        auto;
+    margin-right:       auto;
+    width:              39px;
+
+}
+#date_2{
+    width:              28px;
+    color:              rgb(17,120,186);
+    font-size:          24px;
+    font-weight:        bolder;
+
+    margin-right:       auto;
+    margin-left:        auto;
+    margin-top:         3px;
+
+}
+#p_clear{
+    clear:              left;
+    border-bottom:      1px solid rgb(208,208, 208);;
+}
+#p_margin_top{
+    margin-top:         19px;
+}
+
+.done{
+    border-bottom:      2px solid rgb(140,197,229); 
+}
+

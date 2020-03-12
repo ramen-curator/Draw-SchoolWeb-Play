@@ -1,0 +1,102 @@
+#header{
+    padding:                0px;
+    margin:                 0px;
+    background-image:       url(../images/head_1.jpg);
+}
+
+#header_background{
+    
+    margin-left:            atuo;
+    margin-right:           auto;
+    height:                 126px;
+    background-repeat:      no-repeat;
+}
+#header_main{
+    width:                  1000px;
+    margin-left:            auto;
+    margin-right:           auto;
+}
+
+
+/*中英文切换*/
+#header_language{
+    display:                table;
+
+    width:                  179px;
+
+    height:                 33px;
+    float:                  right;
+
+    color:                  white;
+    text-align:             center;
+    font-weight:            900;
+ 
+}
+#header_language_row{
+    display:                table-row;
+}
+#header_language_item1{
+    display:                table-cell;
+
+    background-color:       rgb(95,140,201);
+
+    width:                  50%;
+    vertical-align:         middle;
+}
+#header_language_item2{
+    display:                table-cell;
+    background-color:       rgb(7,44,92);
+    width:                  50%;
+    vertical-align:         middle;
+}
+#header_language p{
+    padding:0px;
+    margin:0px;
+}
+/*搜索框*/
+#header_search{
+    display:                table;
+    padding:                0px;
+    margin:                 0px;
+    width:                  212px;
+    height:                 27px;
+    float:                  right;
+    clear:                  right;
+    margin-top:             18px;
+}
+#header_search_row{
+    display:                table-row;
+}
+#header_search_No1{
+    display:                table-cell;
+}
+#header_search_input{
+    width:                  172px;
+    height:                 27px;
+    color:                  gray;
+    border:                 none;
+    vertical-align:         middle;
+
+}
+#header_search_No2{
+    display:                table-cell;
+}
+#header_search_submit{
+    height:                 29px;
+    vertical-align:         middle;
+}
+
+/*小导航*/
+#header_main nav{
+    float:                  right;
+
+    color:                rgb(217,223,121);
+    font-size:              15px;
+    font-weight:            bloder;
+    margin:                 22px 10px 0px 0px;                
+}
+#header_main nav li{
+    display:                inline;
+    padding:                0px 10px 0px 10px;
+}
+

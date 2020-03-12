@@ -1,0 +1,14 @@
+/*初始化*/
+*{
+    padding:            0px;
+    margin:             0px;
+}
+li,ol{
+    list-style:none;
+}
+img{
+    border:0;
+}
+body{
+    font-size:         13px;
+}

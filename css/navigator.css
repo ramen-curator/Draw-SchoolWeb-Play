@@ -1,0 +1,38 @@
+#navigator{
+    background-color:         rgb(27,45,68);
+    padding:                    0px;
+
+    height:                     42px;
+}
+#navigator_main{
+    background-color:         rgb(36,40,46);
+    width:                      1000px;
+    margin-left:                auto;
+    margin-right:               auto;
+    height:                     100%;
+    
+    color:                    white;
+    font-size:                  14px;
+   
+}
+#navigator nav{
+    float:                      left;
+
+    width:                      100%;
+    margin-top:                 9px;
+
+    
+}
+
+#navigator nav li{
+    display:                    inline;
+    padding:                    0px 11px 0px 11px;
+    vertical-align:             middle;
+    border-right:               1px dotted gray;
+}
+#navigator nav li#navigator_last_li{
+    border-right:               none;
+}
+#navigator nav li#navigator_first_li{
+    margin-left:                3px;
+}

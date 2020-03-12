@@ -1,0 +1,20 @@
+#big_picture{
+    background-color: rgb(184,205,226);
+    padding:0px;
+    margin:0px;
+    padding-bottom: 0px;
+    margin-bottom:  0px;
+    height:394px;
+}
+
+#big_picture p{
+    width:          1000px;
+    margin-left:    auto;
+    margin-right:    auto;
+   
+}
+
+#big_picture img{
+    width:          1000px;
+    border-bottom:  none;
+}

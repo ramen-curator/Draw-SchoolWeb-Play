@@ -1,0 +1,29 @@
+#footer{
+    height:             138px;
+    background-color:   rgb(75,75,75);
+}
+#footer_content{
+    width:              1000px;
+    margin-left:        auto;
+    margin-right:       auto;
+    padding-top:         81px;
+
+    background-image:   url(../images/footer.png);
+    background-repeat:  no-repeat;
+}
+#footer p{
+    color:            rgb(150,150,147);
+    font-size:          11px;
+    line-height:        20px;
+}
+#footer_next{
+    width:              1000px;
+    margin-left:        auto;
+    margin-right:       auto;
+}
+#footer_next p img{
+    width:              187px;
+    float:              right;     
+    margin-top:         34px;
+    margin-right:       -9px;
+}
